@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/piotr/CPlaneRepos/trunk/C_Application/SC_UEC/CP_UecPorts'
+let g:netrw_dirhist_2='/home/piotr/CPlaneRepos/trunk/C_Application/SC_UEC/CP_UecPorts/Test_modules'
+let g:netrw_dirhist_3='/home/piotr/Dokumenty/github/spartan'
+let g:netrw_dirhist_4='/home/piotr/Dokumenty/github/spartan/training'
