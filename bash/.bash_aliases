@@ -4,9 +4,6 @@ alias search='sudo -E apt-cache search'
 alias gr='grep -nri --color=always'
 alias ..='cd ..'
 
-alias trunk='cd /home/piotr/CPlaneRepos/trunk'
-alias pip='sudo pip install --proxy=http://10.144.1.10:8080'
-
 alias up='svn up'
 alias st='svn st'
 alias revert='svn revert -R'
