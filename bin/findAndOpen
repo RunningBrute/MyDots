@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Find some files: "
+echo "What?: $1"
+echo "Where?: $2"
+echo " "
+
+eval "find $2 -name $1 -exec gvim {} \;"
