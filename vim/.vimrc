@@ -31,6 +31,8 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 "gruvbox - retro groove color scheme
 Plugin 'morhetz/gruvbox'
+"A code-completion engine
+Plugin 'valloric/youcompleteme'
 
 
 " All of your Plugins must be added before the following line
@@ -67,11 +69,11 @@ set mouse=a
 
 syntax enable      "enable syntax
 
-
 "NERDtree under F2
 map <F2> :NERDTreeToggle<CR>
 "remove whitespaces form end of line
 map <F12> :%s/\s*$//g<CR>
+
 
 "Gruvbox colorscheme settings
 colorscheme gruvbox
