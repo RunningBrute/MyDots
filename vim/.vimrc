@@ -75,6 +75,11 @@ map <F2> :NERDTreeToggle<CR>
 map <F12> :%s/\s*$//g<CR>
 
 
+"Hotkeys form windows (CTRL + C etc.)
+source $VIMRUNTIME/mswin.vim
+behave mswin
+
+
 "Gruvbox colorscheme settings
 colorscheme gruvbox
 set background=dark
