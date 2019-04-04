@@ -33,7 +33,8 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'morhetz/gruvbox'
 "A code-completion engine
 Plugin 'valloric/youcompleteme'
-
+"Support for SVN, Git
+Plugin 'juneedahamed/vc.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -73,7 +74,8 @@ syntax enable      "enable syntax
 map <F2> :NERDTreeToggle<CR>
 "remove whitespaces form end of line
 map <F12> :%s/\s*$//g<CR>
-
+"vc.vim plugin mapped operations
+map <F5> :VCBlame<CR>
 
 "Hotkeys form windows (CTRL + C etc.)
 source $VIMRUNTIME/mswin.vim
