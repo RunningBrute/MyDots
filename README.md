@@ -1,5 +1,5 @@
-# MyDots
-My .vimrc and .bashrc files
+# Vimrc Lightsaber
+My vim configuration files
 
 # Instalation
 git clone https://github.com/VundleVim/Vundle.vim (to .vim/boundle/)
