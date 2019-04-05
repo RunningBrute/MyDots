@@ -1,6 +1,6 @@
 # Vimrc Lightsaber
 My vim configuration files
 
-# Instalation
+# Install
 git clone https://github.com/VundleVim/Vundle.vim (to .vim/boundle/)
 next launch vim and run :PluginInstall
