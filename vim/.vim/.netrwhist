@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/basinski/.vim/bundle/gruvbox/autoload/lightline'
-let g:netrw_dirhist_2='/home/basinski/.vim/bundle/gruvbox/autoload/lightline/colorscheme'
-let g:netrw_dirhist_3='/home/basinski/.vim/bundle/gruvbox/autoload/lightline'
-let g:netrw_dirhist_4='/home/basinski/.vim/bundle/gruvbox/autoload'
-let g:netrw_dirhist_5='/home/basinski/.vim/bundle/gruvbox/autoload/airline'
-let g:netrw_dirhist_6='/home/basinski/.vim/bundle/gruvbox/autoload/airline/themes'
-let g:netrw_dirhist_7='/home/basinski'
