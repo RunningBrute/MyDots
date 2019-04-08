@@ -1,0 +1,3 @@
+[submodule "vim/bundle/vc.vim"]
+	path = vim/bundle/vc.vim
+	url = https://github.com/juneedahamed/vc.vim.git
