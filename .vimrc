@@ -94,3 +94,10 @@ colorscheme gruvbox
 set background=dark
 let g:gruvbox_contrast_dark = 'soft'
 
+"Install ctags:
+"Ubuntu: sudo apt-get install ctags
+"Fedora: sudo yum install ctags
+"in ~/.vimrc, add set tags=tags
+"Go to your project directory, and run ctags -R
+set tags=tags
+
