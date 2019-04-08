@@ -39,6 +39,9 @@ Plugin 'juneedahamed/vc.vim'
 Plugin 'a.vim'
 "TTCN-3 syntax highlighting
 Plugin 'ttcn-syntax'
+"Multiple selection (hit Ctrl + n multiple times)
+Plugin 'vim-multiple-cursors'
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
