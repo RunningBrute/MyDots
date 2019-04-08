@@ -37,6 +37,8 @@ Plugin 'morhetz/gruvbox'
 Plugin 'juneedahamed/vc.vim'
 "Alternate files quickly (.cxx -> .hxx)
 Plugin 'a.vim'
+"TTCN-3 syntax highlighting
+Plugin 'ttcn-syntax'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
