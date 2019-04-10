@@ -1,8 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/home/basinski/.vim/bundle/youcompleteme'
-let g:netrw_dirhist_2='/home/basinski/.vim/bundle/youcompleteme/python'
-let g:netrw_dirhist_3='/home/basinski/.vim/bundle/youcompleteme'
-let g:netrw_dirhist_4='/home/basinski/.vim/bundle/youcompleteme/third_party'
-let g:netrw_dirhist_5='/home/basinski/.vim/bundle/youcompleteme'
-let g:netrw_dirhist_6='/home/basinski/.vim/bundle/youcompleteme/autoload'
+let g:netrw_dirhist_cnt =0

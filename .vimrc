@@ -41,7 +41,11 @@ Plugin 'a.vim'
 Plugin 'ttcn-syntax'
 "Multiple selection (hit Ctrl + n multiple times)
 Plugin 'vim-multiple-cursors'
-
+"Statusline plugin - provides statuslines and prompts for several apps
+"Plugin 'powerline/powerline'
+" Different version of powerline and themes
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -94,6 +98,8 @@ colorscheme gruvbox
 set background=dark
 let g:gruvbox_contrast_dark = 'soft'
 
+"powerline settings
+"let g:Powerline_symbols = 'fancy'
 
 "Install ctags:
 "Ubuntu/Debian - sudo apt-get install ctags
